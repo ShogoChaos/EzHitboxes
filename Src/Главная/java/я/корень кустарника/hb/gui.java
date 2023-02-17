@@ -14,7 +14,7 @@ public class gui {
         switch (event.getType()) {
             case TEXT:
                 if (show) {
-                    Minecraft.getInstance().font.drawShadow(event.getMatrixStack(), "Created by @bush1root [TELEGRAM]", 10, 10, rainbow(300));
+                    Minecraft.getInstance().font.drawShadow(event.getMatrixStack(), "cоздал Shogo дс:Мама капибар#6841", 10, 10, rainbow(300));
                 }
                 break;
             default:
